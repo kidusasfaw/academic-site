@@ -72,6 +72,6 @@ user_groups:
 
 Hi there! My name is Kidus. I am a PhD candidate in statistics at University of Michigan. I am entering the final year of my graduate career and am actively looking for opportunities that line up with my interests.
 
-My research has focused on building statistical inference methodology for nonlinear, non-Gaussian stochastic processes. My work has valuable applications in ecology, epidemiology, weather forecasting and target tracking. I am being advised by [Edward Ionides](https://dept.stat.lsa.umich.edu/~ionides/) and [https://kinglab.eeb.lsa.umich.edu/king/](Aaron King).
+My research has focused on building statistical inference methodology for nonlinear, non-Gaussian stochastic processes. My work has valuable applications in ecology, epidemiology, weather forecasting and target tracking. I am being advised by [Edward Ionides](https://dept.stat.lsa.umich.edu/~ionides/) and [Aaron King](https://kinglab.eeb.lsa.umich.edu/king/).
 
 In addition to my research interests, I am always eager to get better at being a disciplined data scientist. How can I formulate my problems in a way that allows valid statistical analyses? What are included in my data and what aren't? How might some models of the data-generating process help? How might they hurt? What can be learned from model estimation and hypothesis testing? How do I present my work to a broad audience? I've learned and taught a lot about these questions.
