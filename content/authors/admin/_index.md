@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include statistical inference for nonlinear, non-Gaussian stochastic processes and epidemiological applications thereof.
 
 interests:
-- Partially-observed Markov processes
-- Spatiotemporal inference
-- Filtering algorithms
+- (Spatiotemporal) inference for partially-observed Markov processes
+- Causal inference
+- Mixed models
 
 education:
   courses:
@@ -74,4 +74,4 @@ Hi there! My name is Kidus. I am a PhD candidate in statistics at University of 
 
 My research has focused on building statistical inference methodology for nonlinear, non-Gaussian stochastic processes. My work has valuable applications in ecology, epidemiology, weather forecasting and target tracking. I am being advised by [Edward Ionides](https://dept.stat.lsa.umich.edu/~ionides/) and [Aaron King](https://kinglab.eeb.lsa.umich.edu/king/).
 
-In addition to my research interests, I am always eager to get better at being a disciplined applied statistician. How can I formulate my problems in a way that allows valid statistical analyses? What are included in my data and what aren't? How might some models of the data-generating process help? How might they hurt? What can be learned from model estimation and hypothesis testing? How do I present my work to a broad audience? I've learned and taught a lot about these questions.
+I am always eager to get better at being a disciplined applied statistician. How can I formulate my problems in a way that allows valid statistical analyses? What are and aren't included in my data? How might some models of the data-generating process help or hurt? How do I present my work to a broad audience? I've learned and thought a lot about these questions.
