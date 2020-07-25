@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ARMA | Kidus Asfaw</title>
-    <link>http://localhost:1313/academic-site/tag/arma/</link>
-      <atom:link href="http://localhost:1313/academic-site/tag/arma/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/arma/</link>
+      <atom:link href="http://localhost:1313/tag/arma/index.xml" rel="self" type="application/rss+xml" />
     <description>ARMA</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jul 2020 20:55:45 -0400</lastBuildDate>
     <image>
-      <url>http://localhost:1313/academic-site/images/logo_hu6e19f7d57260ea69478097067a3ca56e_7840_300x300_fit_lanczos_2.png</url>
+      <url>http://localhost:1313/images/logo_hu6e19f7d57260ea69478097067a3ca56e_7840_300x300_fit_lanczos_2.png</url>
       <title>ARMA</title>
-      <link>http://localhost:1313/academic-site/tag/arma/</link>
+      <link>http://localhost:1313/tag/arma/</link>
     </image>
     
     <item>
       <title>UN Millennium Development Goals Prediction Project</title>
-      <link>http://localhost:1313/academic-site/project/unmdg/</link>
+      <link>http://localhost:1313/project/unmdg/</link>
       <pubDate>Fri, 24 Jul 2020 20:55:45 -0400</pubDate>
-      <guid>http://localhost:1313/academic-site/project/unmdg/</guid>
+      <guid>http://localhost:1313/project/unmdg/</guid>
       <description></description>
     </item>
     

@@ -3,151 +3,151 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/academic-site/publication-type/3/</loc>
+    <loc>http://localhost:1313/publication-type/3/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/author/aaron-king/</loc>
+    <loc>http://localhost:1313/author/aaron-king/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/author/edward-ionides/</loc>
+    <loc>http://localhost:1313/author/edward-ionides/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/publication/iif/</loc>
+    <loc>http://localhost:1313/publication/iif/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/author/joonha-park/</loc>
+    <loc>http://localhost:1313/author/joonha-park/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/author/kidus-asfaw/</loc>
+    <loc>http://localhost:1313/author/kidus-asfaw/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/tag/markov-process/</loc>
+    <loc>http://localhost:1313/tag/markov-process/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/tag/metapopulation-dynamics/</loc>
+    <loc>http://localhost:1313/tag/metapopulation-dynamics/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/tag/particle-filter/</loc>
+    <loc>http://localhost:1313/tag/particle-filter/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/tag/sequential-monte-carlo/</loc>
+    <loc>http://localhost:1313/tag/sequential-monte-carlo/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/tag/spatiotemporal-inference/</loc>
+    <loc>http://localhost:1313/tag/spatiotemporal-inference/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/project/dengue/</loc>
+    <loc>http://localhost:1313/project/dengue/</loc>
     <lastmod>2020-07-24T21:11:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2020-07-24T21:11:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/project/wapo/</loc>
+    <loc>http://localhost:1313/project/wapo/</loc>
     <lastmod>2020-07-24T21:07:37-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/author/ed-wu/</loc>
+    <loc>http://localhost:1313/author/ed-wu/</loc>
     <lastmod>2020-07-24T21:07:37-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/author/laura-niss/</loc>
+    <loc>http://localhost:1313/author/laura-niss/</loc>
     <lastmod>2020-07-24T21:07:37-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/author/zoe-rehnberg/</loc>
+    <loc>http://localhost:1313/author/zoe-rehnberg/</loc>
     <lastmod>2020-07-24T21:07:37-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/tag/arma/</loc>
+    <loc>http://localhost:1313/tag/arma/</loc>
     <lastmod>2020-07-24T20:55:45-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/category/arma/</loc>
+    <loc>http://localhost:1313/category/arma/</loc>
     <lastmod>2020-07-24T20:55:45-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2020-07-24T20:55:45-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/project/unmdg/</loc>
+    <loc>http://localhost:1313/project/unmdg/</loc>
     <lastmod>2020-07-24T20:55:45-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/talk/</loc>
+    <loc>http://localhost:1313/talk/</loc>
     <lastmod>2020-07-15T21:29:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/talk/sbied/</loc>
+    <loc>http://localhost:1313/talk/sbied/</loc>
     <lastmod>2020-07-15T21:29:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/author/kidus-asfaw/</loc>
+    <loc>http://localhost:1313/author/kidus-asfaw/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/academic-site/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
   </url>
   
 </urlset>
