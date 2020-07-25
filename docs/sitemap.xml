@@ -3,151 +3,157 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/publication-type/3/</loc>
+    <loc>https://kidusasfaw.github.io/post/jsm/</loc>
+    <lastmod>2020-07-25T18:35:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kidusasfaw.github.io/</loc>
+    <lastmod>2020-07-25T18:35:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kidusasfaw.github.io/post/</loc>
+    <lastmod>2020-07-25T18:35:09-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kidusasfaw.github.io/publication-type/3/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/author/aaron-king/</loc>
+    <loc>https://kidusasfaw.github.io/author/aaron-king/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://kidusasfaw.github.io/authors/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/author/edward-ionides/</loc>
+    <loc>https://kidusasfaw.github.io/author/edward-ionides/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publication/iif/</loc>
+    <loc>https://kidusasfaw.github.io/publication/iif/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/author/joonha-park/</loc>
+    <loc>https://kidusasfaw.github.io/author/joonha-park/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/author/kidus-asfaw/</loc>
+    <loc>https://kidusasfaw.github.io/author/kidus-asfaw/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://kidusasfaw.github.io/tag/markov-process/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tag/markov-process/</loc>
+    <loc>https://kidusasfaw.github.io/tag/metapopulation-dynamics/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tag/metapopulation-dynamics/</loc>
+    <loc>https://kidusasfaw.github.io/tag/particle-filter/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tag/particle-filter/</loc>
+    <loc>https://kidusasfaw.github.io/publication_types/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://kidusasfaw.github.io/publication/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>https://kidusasfaw.github.io/tag/sequential-monte-carlo/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tag/sequential-monte-carlo/</loc>
+    <loc>https://kidusasfaw.github.io/tag/spatiotemporal-inference/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tag/spatiotemporal-inference/</loc>
+    <loc>https://kidusasfaw.github.io/tags/</loc>
     <lastmod>2020-07-24T21:44:05-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2020-07-24T21:44:05-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/project/dengue/</loc>
+    <loc>https://kidusasfaw.github.io/project/dengue/</loc>
     <lastmod>2020-07-24T21:11:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://kidusasfaw.github.io/project/</loc>
     <lastmod>2020-07-24T21:11:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/project/wapo/</loc>
+    <loc>https://kidusasfaw.github.io/project/wapo/</loc>
     <lastmod>2020-07-24T21:07:37-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/author/ed-wu/</loc>
+    <loc>https://kidusasfaw.github.io/author/ed-wu/</loc>
     <lastmod>2020-07-24T21:07:37-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/author/laura-niss/</loc>
+    <loc>https://kidusasfaw.github.io/author/laura-niss/</loc>
     <lastmod>2020-07-24T21:07:37-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/author/zoe-rehnberg/</loc>
+    <loc>https://kidusasfaw.github.io/author/zoe-rehnberg/</loc>
     <lastmod>2020-07-24T21:07:37-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tag/arma/</loc>
+    <loc>https://kidusasfaw.github.io/tag/arma/</loc>
     <lastmod>2020-07-24T20:55:45-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/category/arma/</loc>
+    <loc>https://kidusasfaw.github.io/category/arma/</loc>
     <lastmod>2020-07-24T20:55:45-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://kidusasfaw.github.io/categories/</loc>
     <lastmod>2020-07-24T20:55:45-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/project/unmdg/</loc>
+    <loc>https://kidusasfaw.github.io/project/unmdg/</loc>
     <lastmod>2020-07-24T20:55:45-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/talk/</loc>
+    <loc>https://kidusasfaw.github.io/talk/</loc>
     <lastmod>2020-07-15T21:29:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/talk/sbied/</loc>
+    <loc>https://kidusasfaw.github.io/talk/sbied/</loc>
     <lastmod>2020-07-15T21:29:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/author/kidus-asfaw/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://kidusasfaw.github.io/author/kidus-asfaw/</loc>
   </url>
   
 </urlset>

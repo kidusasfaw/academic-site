@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Kidus Asfaw</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kidusasfaw.github.io/project/</link>
+      <atom:link href="https://kidusasfaw.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jul 2020 21:11:38 -0400</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/logo_hu6e19f7d57260ea69478097067a3ca56e_7840_300x300_fit_lanczos_2.png</url>
+      <url>https://kidusasfaw.github.io/images/logo_hu6e19f7d57260ea69478097067a3ca56e_7840_300x300_fit_lanczos_2.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://kidusasfaw.github.io/project/</link>
     </image>
     
     <item>
       <title>Modeling dengue in San Juan, Puerto Rico</title>
-      <link>http://localhost:1313/project/dengue/</link>
+      <link>https://kidusasfaw.github.io/project/dengue/</link>
       <pubDate>Fri, 24 Jul 2020 21:11:38 -0400</pubDate>
-      <guid>http://localhost:1313/project/dengue/</guid>
+      <guid>https://kidusasfaw.github.io/project/dengue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Washington Post fatal police shootings data</title>
-      <link>http://localhost:1313/project/wapo/</link>
+      <link>https://kidusasfaw.github.io/project/wapo/</link>
       <pubDate>Fri, 24 Jul 2020 21:07:37 -0400</pubDate>
-      <guid>http://localhost:1313/project/wapo/</guid>
+      <guid>https://kidusasfaw.github.io/project/wapo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UN Millennium Development Goals Prediction Project</title>
-      <link>http://localhost:1313/project/unmdg/</link>
+      <link>https://kidusasfaw.github.io/project/unmdg/</link>
       <pubDate>Fri, 24 Jul 2020 20:55:45 -0400</pubDate>
-      <guid>http://localhost:1313/project/unmdg/</guid>
+      <guid>https://kidusasfaw.github.io/project/unmdg/</guid>
       <description></description>
     </item>
     
