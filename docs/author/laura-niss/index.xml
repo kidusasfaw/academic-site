@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laura Niss | Kidus Asfaw</title>
-    <link>https://kidusasfaw.github.io/academic-site/author/laura-niss/</link>
-      <atom:link href="https://kidusasfaw.github.io/academic-site/author/laura-niss/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/academic-site/author/laura-niss/</link>
+      <atom:link href="http://localhost:1313/academic-site/author/laura-niss/index.xml" rel="self" type="application/rss+xml" />
     <description>Laura Niss</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jul 2020 21:07:37 -0400</lastBuildDate>
     <image>
-      <url>https://kidusasfaw.github.io/academic-site/images/logo_hu6e19f7d57260ea69478097067a3ca56e_7840_300x300_fit_lanczos_2.png</url>
+      <url>http://localhost:1313/academic-site/images/logo_hu6e19f7d57260ea69478097067a3ca56e_7840_300x300_fit_lanczos_2.png</url>
       <title>Laura Niss</title>
-      <link>https://kidusasfaw.github.io/academic-site/author/laura-niss/</link>
+      <link>http://localhost:1313/academic-site/author/laura-niss/</link>
     </image>
     
     <item>
       <title>Analysis of Washington Post fatal police shootings data</title>
-      <link>https://kidusasfaw.github.io/academic-site/project/wapo/</link>
+      <link>http://localhost:1313/academic-site/project/wapo/</link>
       <pubDate>Fri, 24 Jul 2020 21:07:37 -0400</pubDate>
-      <guid>https://kidusasfaw.github.io/academic-site/project/wapo/</guid>
+      <guid>http://localhost:1313/academic-site/project/wapo/</guid>
       <description></description>
     </item>
     

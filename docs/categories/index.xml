@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Kidus Asfaw</title>
-    <link>https://kidusasfaw.github.io/academic-site/categories/</link>
-      <atom:link href="https://kidusasfaw.github.io/academic-site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/academic-site/categories/</link>
+      <atom:link href="http://localhost:1313/academic-site/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jul 2020 20:55:45 -0400</lastBuildDate>
     <image>
-      <url>https://kidusasfaw.github.io/academic-site/images/logo_hu6e19f7d57260ea69478097067a3ca56e_7840_300x300_fit_lanczos_2.png</url>
+      <url>http://localhost:1313/academic-site/images/logo_hu6e19f7d57260ea69478097067a3ca56e_7840_300x300_fit_lanczos_2.png</url>
       <title>Categories</title>
-      <link>https://kidusasfaw.github.io/academic-site/categories/</link>
+      <link>http://localhost:1313/academic-site/categories/</link>
     </image>
     
   </channel>

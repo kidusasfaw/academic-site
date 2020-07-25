@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kidus Asfaw</title>
-    <link>https://kidusasfaw.github.io/academic-site/</link>
-      <atom:link href="https://kidusasfaw.github.io/academic-site/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/academic-site/</link>
+      <atom:link href="http://localhost:1313/academic-site/index.xml" rel="self" type="application/rss+xml" />
     <description>Kidus Asfaw</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jul 2020 21:44:05 -0400</lastBuildDate>
     <image>
-      <url>https://kidusasfaw.github.io/academic-site/images/logo_hu6e19f7d57260ea69478097067a3ca56e_7840_300x300_fit_lanczos_2.png</url>
+      <url>http://localhost:1313/academic-site/images/logo_hu6e19f7d57260ea69478097067a3ca56e_7840_300x300_fit_lanczos_2.png</url>
       <title>Kidus Asfaw</title>
-      <link>https://kidusasfaw.github.io/academic-site/</link>
+      <link>http://localhost:1313/academic-site/</link>
     </image>
     
     <item>
       <title>Island filters for partially observed spatiotemporal systems</title>
-      <link>https://kidusasfaw.github.io/academic-site/publication/iif/</link>
+      <link>http://localhost:1313/academic-site/publication/iif/</link>
       <pubDate>Fri, 24 Jul 2020 21:44:05 -0400</pubDate>
-      <guid>https://kidusasfaw.github.io/academic-site/publication/iif/</guid>
+      <guid>http://localhost:1313/academic-site/publication/iif/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling dengue in San Juan, Puerto Rico</title>
-      <link>https://kidusasfaw.github.io/academic-site/project/dengue/</link>
+      <link>http://localhost:1313/academic-site/project/dengue/</link>
       <pubDate>Fri, 24 Jul 2020 21:11:38 -0400</pubDate>
-      <guid>https://kidusasfaw.github.io/academic-site/project/dengue/</guid>
+      <guid>http://localhost:1313/academic-site/project/dengue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Washington Post fatal police shootings data</title>
-      <link>https://kidusasfaw.github.io/academic-site/project/wapo/</link>
+      <link>http://localhost:1313/academic-site/project/wapo/</link>
       <pubDate>Fri, 24 Jul 2020 21:07:37 -0400</pubDate>
-      <guid>https://kidusasfaw.github.io/academic-site/project/wapo/</guid>
+      <guid>http://localhost:1313/academic-site/project/wapo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UN Millennium Development Goals Prediction Project</title>
-      <link>https://kidusasfaw.github.io/academic-site/project/unmdg/</link>
+      <link>http://localhost:1313/academic-site/project/unmdg/</link>
       <pubDate>Fri, 24 Jul 2020 20:55:45 -0400</pubDate>
-      <guid>https://kidusasfaw.github.io/academic-site/project/unmdg/</guid>
+      <guid>http://localhost:1313/academic-site/project/unmdg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulation-based inference for epidemiological dynamics</title>
-      <link>https://kidusasfaw.github.io/academic-site/talk/sbied/</link>
+      <link>http://localhost:1313/academic-site/talk/sbied/</link>
       <pubDate>Wed, 15 Jul 2020 21:29:30 -0400</pubDate>
-      <guid>https://kidusasfaw.github.io/academic-site/talk/sbied/</guid>
+      <guid>http://localhost:1313/academic-site/talk/sbied/</guid>
       <description></description>
     </item>
     
