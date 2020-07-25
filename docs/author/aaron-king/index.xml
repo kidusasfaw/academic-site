@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaron King | Kidus Asfaw</title>
+    <link>https://kidusasfaw.github.io/academic-site/author/aaron-king/</link>
+      <atom:link href="https://kidusasfaw.github.io/academic-site/author/aaron-king/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aaron King</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jul 2020 21:44:05 -0400</lastBuildDate>
+    <image>
+      <url>https://kidusasfaw.github.io/academic-site/images/logo_hu6e19f7d57260ea69478097067a3ca56e_7840_300x300_fit_lanczos_2.png</url>
+      <title>Aaron King</title>
+      <link>https://kidusasfaw.github.io/academic-site/author/aaron-king/</link>
+    </image>
+    
+    <item>
+      <title>Island filters for partially observed spatiotemporal systems</title>
+      <link>https://kidusasfaw.github.io/academic-site/publication/iif/</link>
+      <pubDate>Fri, 24 Jul 2020 21:44:05 -0400</pubDate>
+      <guid>https://kidusasfaw.github.io/academic-site/publication/iif/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
