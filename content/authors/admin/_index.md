@@ -33,7 +33,7 @@ education:
   - course: MS in statistics
     institution: University of Michigan
     year: 2018
-  - course: BA in applied mathematics
+  - course: BA in applied mathematics, *cum laude*
     institution: Harvard University
     year: 2013
 

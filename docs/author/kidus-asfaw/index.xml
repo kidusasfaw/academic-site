@@ -5,12 +5,44 @@
     <link>https://kidusasfaw.github.io/author/kidus-asfaw/</link>
       <atom:link href="https://kidusasfaw.github.io/author/kidus-asfaw/index.xml" rel="self" type="application/rss+xml" />
     <description>Kidus Asfaw</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jul 2020 21:44:05 -0400</lastBuildDate>
     <image>
       <url>https://kidusasfaw.github.io/images/logo_hu6e19f7d57260ea69478097067a3ca56e_7840_300x300_fit_lanczos_2.png</url>
       <title>Kidus Asfaw</title>
       <link>https://kidusasfaw.github.io/author/kidus-asfaw/</link>
     </image>
+    
+    <item>
+      <title>Island filters for partially observed spatiotemporal systems</title>
+      <link>https://kidusasfaw.github.io/publication/iif/</link>
+      <pubDate>Fri, 24 Jul 2020 21:44:05 -0400</pubDate>
+      <guid>https://kidusasfaw.github.io/publication/iif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling dengue in San Juan, Puerto Rico</title>
+      <link>https://kidusasfaw.github.io/project/dengue/</link>
+      <pubDate>Fri, 24 Jul 2020 21:11:38 -0400</pubDate>
+      <guid>https://kidusasfaw.github.io/project/dengue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Washington Post fatal police shootings data</title>
+      <link>https://kidusasfaw.github.io/project/wapo/</link>
+      <pubDate>Fri, 24 Jul 2020 21:07:37 -0400</pubDate>
+      <guid>https://kidusasfaw.github.io/project/wapo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UN Millennium Development Goals Prediction Project</title>
+      <link>https://kidusasfaw.github.io/project/unmdg/</link>
+      <pubDate>Fri, 24 Jul 2020 20:55:45 -0400</pubDate>
+      <guid>https://kidusasfaw.github.io/project/unmdg/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
