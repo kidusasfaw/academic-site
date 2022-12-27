@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kidus Asfaw
+title: Kidus Hiwot (formerly Kidus Asfaw)
 
 # Username (this should match the folder name)
 authors:
