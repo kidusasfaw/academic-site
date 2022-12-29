@@ -70,7 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Hi there! My name is Kidus. I received my PhD in statistics at University of Michigan. I am actively looking for opportunities that line up with my interests.
+Hi there! My name is Kidus. I received my PhD in statistics from University of Michigan. I am actively looking for 
+opportunities that line up with my interests.
 
 My research has focused on building statistical inference methodology for nonlinear, non-Gaussian stochastic processes. My work has valuable applications in ecology, epidemiology, weather forecasting and target tracking. I am being advised by [Edward Ionides](https://dept.stat.lsa.umich.edu/~ionides/) and [Aaron King](https://kinglab.eeb.lsa.umich.edu/king/).
 
