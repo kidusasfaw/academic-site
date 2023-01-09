@@ -3,7 +3,7 @@
 
 title: "Bagged filters for partially observed interacting systems"
 authors: [Edward Ionides, Kidus Asfaw, Joonha Park, Aaron King]
-date: 2020-07-24T21:44:05-04:00
+date: 2021-10-04T21:44:05-04:00
 doi: "10.1080/01621459.2021.1974867"
 
 # Schedule page publish date (NOT publication's date).
