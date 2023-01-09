@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an applied statistician with experience in many areas of the field. My research interests include statistical inference for nonlinear, non-Gaussian stochastic 
-processes and epidemiological applications thereof.
+bio: I am an applied statistician with experience in many areas of the field. My research interests include statistical inference for nonlinear, non-Gaussian stochastic processes and epidemiological applications thereof.
 
 interests:
 - Time series analysis
