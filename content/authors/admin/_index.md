@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kidus Hiwot (formerly Kidus Asfaw)
+title: Kidus Hiwot, PhD (n'ee Kidus Asfaw)
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in statistics
+role: Data scientist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan
+- name: Microsoft
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistical inference for nonlinear, non-Gaussian stochastic processes and epidemiological applications thereof.
+bio: I am an applied statistician with experience in many areas of the field. My research interests include statistical inference for nonlinear, non-Gaussian stochastic 
+processes and epidemiological applications thereof.
 
 interests:
-- (Spatiotemporal) inference for partially-observed Markov processes
+- Time series analysis
 - Causal inference
 - Mixed models
+- (Spatiotemporal) inference for partially-observed Markov processes
 
 education:
   courses:
@@ -70,9 +72,16 @@ user_groups:
 - Visitors
 ---
 
-Hi there! My name is Kidus. I received my PhD in statistics from University of Michigan. I am actively looking for 
-opportunities that line up with my interests.
+Hi there! My name is Kidus. I am a data scientist at Microsoft and I recently also received my PhD in statistics from University of Michigan. I currently work on projects that can loosely be bucketed in 
+machine learning and time series analysis. I consider myself a lifelong learner and am currently going through Frank Harrell, Jr.'s Regression Modeling 
+Strategies.
 
-My research has focused on building statistical inference methodology for nonlinear, non-Gaussian stochastic processes. My work has valuable applications in ecology, epidemiology, weather forecasting and target tracking. I am being advised by [Edward Ionides](https://dept.stat.lsa.umich.edu/~ionides/) and [Aaron King](https://kinglab.eeb.lsa.umich.edu/king/).
+My research while in graduate school focused on building statistical inference methodology for nonlinear, non-Gaussian stochastic processes. I also worked on an R package called 
+[spatPomp](https://kidusasfaw.github.io/spatPomp) where I implemented new and existing methods. My work has valuable applications in ecology, epidemiology, 
+weather forecasting and target tracking. I was advised by [Edward Ionides](https://dept.stat.lsa.umich.edu/~ionides/) and [Aaron King](https://kinglab.eeb.lsa.umich.edu/king/).
 
-I am always eager to get better at being a disciplined applied statistician. How can I formulate my problems in a way that allows valid statistical analyses? What are and aren't included in my data? How might some models of the data-generating process help or hurt? How do I present my work to a broad audience? I've learned and thought a lot about these questions.
+I am always eager to get better at being a disciplined applied statistician (these days, I am going through Frank Harrell, Jr.'s Regression Modeling
+Strategies) . How can I formulate my problems in a way that allows 
+valid statistical analyses? What are and 
+aren't included in my data? How might some models and methods help or hurt in getting an answer to real-life and business problems? How do I present my work to a 
+broad audience? I've learned and thought a lot about these questions.
