@@ -72,15 +72,14 @@ user_groups:
 ---
 
 Hi there! My name is Kidus. I am a data scientist at Microsoft and I recently also received my PhD in statistics from University of Michigan. I currently work on projects that can loosely be bucketed in 
-machine learning and time series analysis. I consider myself a lifelong learner and am currently going through Frank Harrell, Jr.'s Regression Modeling 
-Strategies.
+machine learning and time series analysis.
 
 My research while in graduate school focused on building statistical inference methodology for nonlinear, non-Gaussian stochastic processes. I also worked on an R package called 
 [spatPomp](https://kidusasfaw.github.io/spatPomp) where I implemented new and existing methods. My work has valuable applications in ecology, epidemiology, 
 weather forecasting and target tracking. I was advised by [Edward Ionides](https://dept.stat.lsa.umich.edu/~ionides/) and [Aaron King](https://kinglab.eeb.lsa.umich.edu/king/).
 
-I am always eager to get better at being a disciplined applied statistician (these days, I am going through Frank Harrell, Jr.'s Regression Modeling
-Strategies) . How can I formulate my problems in a way that allows 
+I am always eager to get better at being a disciplined applied statistician (these days I am going through [Frank Harrell, Jr.'s Regression Modeling
+Strategies](https://link.springer.com/book/10.1007/978-3-319-19425-7)) . How can I formulate my problems in a way that allows 
 valid statistical analyses? What are and 
-aren't included in my data? How might some models and methods help or hurt in getting an answer to real-life and business problems? How do I present my work to a 
+aren't included in my data? How might some models and methods help or hurt in getting an answer to real-life/business problems? How do I present my work to a 
 broad audience? I've learned and thought a lot about these questions.
