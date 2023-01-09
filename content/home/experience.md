@@ -18,6 +18,34 @@ date_format = "Jan 2, 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Data scientist"
+  company = "Microsoft"
+  company_url = ""
+  location = "Ann Arbor, MI"
+  date_start = "2021-10-11"
+  date_end = ""
+  description = """
+
+  * I work in a generalist data science team that implements machine learning solutions to various business apps.
+  * I engage with app teams to scope projects, create proof-of-concept analyses and develop solution from dev to production.
+  * I resolve issues and build features for existing products.
+  * I have experience providing solutions for marketing and supply chain business apps.
+  """
+
+[[experience]]
+  title = "Graduate student instructor"
+  company = "University of Michigan"
+  company_url = ""
+  location = "Ann Arbor, MI"
+  date_start = "2016-09-01"
+  date_end = "2021-08-20"
+  description = """
+
+  * Coached small groups of about 30 students on calculus-based foundations of statistics (STATS 412) and statistical computing (STATS 306). Will teach grad-level time series analysis course in winter 2021.
+  * Received outstanding teaching award from the department of statistics for the 2017-2018 academic year.
+  """
+
+[[experience]]
   title = "Co-instructor"
   company = "Simulation-based inference for epidemiological dynamics"
   company_url = "https://kingaa.github.io/sbied/"
@@ -41,19 +69,6 @@ date_format = "Jan 2, 2006"
   * Developed OKRs for a 12-week internship project.
   * Utilized panel data methods to achieve desired estimates.
   * Presented results and recommendations to data quality team at end of internship.
-  """
-
-[[experience]]
-  title = "Graduate student instructor"
-  company = "University of Michigan"
-  company_url = ""
-  location = "Ann Arbor, MI"
-  date_start = "2016-09-01"
-  date_end = ""
-  description = """
-
-  * Coached small groups of about 30 students on calculus-based foundations of statistics (STATS 412) and statistical computing (STATS 306). Will teach grad-level time series analysis course in winter 2021.
-  * Received outstanding teaching award from the department of statistics for the 2017-2018 academic year.
   """
 
 [[experience]]

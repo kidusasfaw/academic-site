@@ -78,7 +78,7 @@ My research while in graduate school focused on building statistical inference m
 [spatPomp](https://kidusasfaw.github.io/spatPomp) where I implemented new and existing methods. My work has valuable applications in ecology, epidemiology, 
 weather forecasting and target tracking. I was advised by [Edward Ionides](https://dept.stat.lsa.umich.edu/~ionides/) and [Aaron King](https://kinglab.eeb.lsa.umich.edu/king/).
 
-I am always eager to get better at being a disciplined applied statistician (these days I am going through [Frank Harrell, Jr.'s Regression Modeling
+I am always eager to get better at being a disciplined applied statistician (these days I am going through Frank Harrell, Jr.'s [Regression Modeling
 Strategies](https://link.springer.com/book/10.1007/978-3-319-19425-7)) . How can I formulate my problems in a way that allows 
 valid statistical analyses? What are and 
 aren't included in my data? How might some models and methods help or hurt in getting an answer to real-life/business problems? How do I present my work to a 
