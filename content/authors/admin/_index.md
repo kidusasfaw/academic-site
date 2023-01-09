@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kidus Hiwot, PhD (n'ee Kidus Asfaw)
+title: Kidus Hiwot, PhD (née Kidus Asfaw)
 
 # Username (this should match the folder name)
 authors:
